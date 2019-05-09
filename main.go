@@ -1,6 +1,8 @@
 package main
 
-import "apigin/router"
+import (
+	"apigin/router"
+)
 
 func main() {
 	r := router.InitRouter()
