@@ -1,6 +1,6 @@
 package model
 
-import "pipiao.yguilai.com/database/mysql"
+import "api_gin/database/mysql"
 
 type Auth struct {
 	Id     int    `gorm:"primary_key" json:"id"`
