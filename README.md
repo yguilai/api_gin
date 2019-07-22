@@ -1,7 +1,5 @@
 # apigin
-A restful api frame based on go-gin
-
-Use go-jwt and validation of beego
+A restful api frame based on go-gin, Use go-jwt and validation of beego
 
 You need
 ```
